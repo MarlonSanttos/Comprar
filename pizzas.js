@@ -1,0 +1,11 @@
+let pizzaJson = [
+    {id:1, name:'AUDI R8 2021', img:'imgs/audir8.png', price:1529990, sizes:['', '', ''], description:'Audi R8 5.2 Performance S-Tronic Quattro 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:2, name:'PORSCHE 911 2021', img:'imgs/porsche911.png', price:1509000, sizes:['', '', ''], description:'Porsche 911 3.8 Turbo S PDK 4WD 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:3, name:'FORD MUSTANG 2021', img:'imgs/mustang.png', price:553990, sizes:['', '', ''], description:'Ford Mustang 5.0 Mach 1 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:4, name:'PORSCHE 718 2021', img:'imgs/porche718.png', price:627000, sizes:['', '', ''], description:'Porsche 718 Boxster 2.0 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:5, name:'BMW SÉRIE M2 2021', img:'imgs/bmwm2.png', price:620950, sizes:['', '', ''], description:'BMW M2 Competition 3.0 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:6, name:'AUDI TT RS 2021', img:'imgs/auditt.png', price:525990, sizes:['', '', ''], description:'Audi TT RS 2.5 TFSI S Tronic Quattro 2022: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:7, name:'JAGUAR F-TYPE 2021', img:'imgs/jaguarftype.png', price:522990, sizes:['', '', ''], description:'Jaguar F-Type P380 2.0 R-Dynamic 2021: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:8, name:'PORSCHE 718 2021', img:'imgs/porche718b.png', price:603990, sizes:['', '', ''], description:'Porsche 718 Boxster 2.0 2022: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'},
+    {id:9, name:'BMW SÉRIE M2 2021', img:'imgs/bmw2m2.png', price:620000, sizes:['', '', ''], description:'BMW M2 Competition 3.0 2022: Ficha técnica completa. Motor, performance, dimensões, consumo, mecânica e itens de série.'}
+];
